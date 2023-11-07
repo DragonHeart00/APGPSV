@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mark_answers"
+        android:checkable="true"
+        android:checked="true"
+        android:orderInCategory="1"
+        android:title="@string/mark_answers"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/favorite_list"
+        android:enabled="true"
+        android:orderInCategory="2"
+        android:title="@string/favorite_list"
+        android:visible="true">
+        <menu>
+            <item
+                android:id="@+id/save_delete_question"
+                android:orderInCategory="1"
+                android:title="@string/save_question"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/save_all_Marked_questions"
+                android:orderInCategory="2"
+                android:title="@string/save_all_Marked_questions"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/save_all_wrong_questions"
+                android:orderInCategory="3"
+                android:title="@string/save_all_wrong_questions"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/report_question"
+        android:orderInCategory="3"
+        android:title="@string/report_question"
+        app:showAsAction="never" />
+</menu>

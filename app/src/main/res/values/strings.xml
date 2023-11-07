@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">GodKänt</string>
+    <string name="app_language">GodKänt på svenska</string>
+
+    <string name="title_activity_about">About</string>
+
+    <string name="enter_code">Ange kod</string>
+    <string name="login">Logga in</string>
+    <string name="logout">Logga ut</string>
+    <string name="free_test">Testa gratis</string>
+    <string name="subscribe">Prenumerera</string>
+    <string name="about">Om oss</string>
+
+    <string name="application_warning_internet">Appen kräver en aktiv internetanslutning, anslut din enhet till internet innan du startar appen!</string>
+    <string name="check_your_internet_connection">Kontrollera din internetanslutning!</string>
+    <string name="no_internet_connection">Ingen internetanslutning!</string>
+    <string name="unknown_error_occurred">Okänt fel har inträffat!</string>
+
+    <string name="please_enter_a_code_first">Var god ange en kod först!</string>
+    <string name="please_enter_a_valid_code_first">Var god ange en giltig kod först!</string>
+    <string name="code_has_been_used_on_another_device">Koden har använts på en annan enhet!</string>
+    <string name="code_has_expired">Koden har gått ut!</string>
+    <string name="invalid_credentials">Ogiltiga uppgifter!</string>
+    <string name="code_activated_for">Koden aktiverad för:</string>
+    <string name="days">dagar!</string>
+    <string name="hours">timmar!</string>
+    <string name="login_succeed">Inloggningen lyckades</string>
+
+    <string name="okay">Okej</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="back">Tillbaka</string>
+    <string name="close">Stäng</string>
+    <string name="exit">Utgång</string>
+
+    <string name="dash">-</string>
+
+    <string name="start">Start</string>
+    <string name="favorite_list">Favoritlista</string>
+    <string name="latest_result">Senaste resultatet</string>
+    <string name="expiration_date">Utgångsdatum</string>
+
+    <string name="mode_study">Studera</string>
+    <string name="mode_test">Testa</string>
+    <string name="mode_exam">Examen</string>
+
+    <string name="reward_ad_message">För att göra en exam får du titta färdigt på en reklam först. Vill du förstätta?</string>
+
+    <string name="file_default_title">Körkort-B frågor, pärm</string>
+    <string name="choose_test">Välja pärm</string>
+    <string name="number_of_binders_colon">Antalet pärm:</string>
+    <string name="binder">Pärm</string>
+    <string name="unopened_yet">Oöppnad ännu</string>
+    <string name="started_unfinished">Påbörjat, oavslutat</string>
+
+    <string name="header">Kunskapsprov</string>
+
+    <string name="succeed">Godkänt</string>
+    <string name="failed">Underkänt</string>
+
+    <string name="questions_counter">1/70</string>
+    <string name="default_value">0</string>
+    <string name="answer_a">Svar A</string>
+    <string name="answer_b">Svar B</string>
+    <string name="answer_c">Svar C</string>
+    <string name="answer_d">Svar D</string>
+    <string name="time">00:00</string>
+    <string name="default_question_value">1</string>
+    <string name="next">Nästa &gt;</string>
+    <string name="previous">&lt; Tidigare</string>
+    <string name="end">Avsluta</string>
+
+    <string name="previous_code">1</string>
+    <string name="next_code">2</string>
+
+    <string name="marked_colon">Markerade:</string>
+    <string name="unanswered_colon">Obesvarade:</string>
+
+    <string name="show_right_answer">Visa rätt svar</string>
+    <string name="show_test_info">Visa testuppgifter</string>
+    <string name="show_time">Visa tiden</string>
+    <string name="mark_answers">Markera svar</string>
+    <string name="save_question">Lägg till i din favoritlista</string>
+    <string name="delete_question">Ta bort från favoritlistan</string>
+    <string name="empty_favorite_list">Tom favoritlista</string>
+    <string name="report_question">Rapportera frågan</string>
+    <string name="save_all_Marked_questions">Lägg till alla markerade frågor</string>
+    <string name="save_all_wrong_questions">Lägg till alla fel besvarade frågor</string>
+    <string name="marked_questions_added_to_favorite_list">Alla markerade frågor har lagts till i din favoritlista</string>
+    <string name="wrong_questions_added_to_favorite_list">Alla fel besvarade frågor har lagts till i din favoritlista</string>
+    <string name="marked_questions_exists_already">Alla markerade frågor finns redan i din favoritlista</string>
+    <string name="wrong_questions_exists_already">Alla fel besvarade frågor finns redan i din favoritlista</string>
+    <string name="there_is_no_marked_questions">Det finns inga markerade frågor</string>
+    <string name="there_is_no_wrong_questions">Det finns inga fel besvarade frågor</string>
+
+    <string name="delete_question_ask">Är du säker på att du vill ta bort frågan från din favoritlista?</string>
+    <string name="delete_question_done">Frågan har tagits bort från favoritlistan</string>
+    <string name="empty_favorite_list_ask">Är du säker på att du vill tömma din favoritlista?</string>
+    <string name="empty_favorite_list_done">Din favoritlista är tom nu</string>
+    <string name="add_question_done">Frågan har lagts till i favoritlistan</string>
+    <string name="favorite_list_empty">Din favoritlista är tom!</string>
+    <string name="latest_tests_unavailable">Du har inga test gjort!</string>
+    <string name="database_has_been_updated">Databasen har uppdaterats, ditt senaste resultat har tagits bort!</string>
+
+    <string name="report">Rapportera</string>
+    <string name="report_issue_1">Formatet på frågan är felaktigt</string>
+    <string name="report_issue_2">Frågan saknar en illustrativ bild</string>
+    <string name="report_issue_3">Andra</string>
+    <string name="report_issue_null">Jag tvivlar på denna fråga</string>
+    <string name="write_feedback_here">Skriv problemet här</string>
+    <string name="reported_successfully">Frågan rapporterats framgångsrikt</string>
+    <string name="already_reported">Frågan har redan rapporterats</string>
+
+    <string name="ten_minutes_left">Tio minuter kvar!</string>
+    <string name="time_is_up">Tiden är ute!\nKlicka på \"Avsluta\" för att visa ditt resultat</string>
+    <string name="cancel_test_ask">Är du säker på att du vill gå tillbaka?</string>
+    <string name="end_test_ask">Är du säker på att du vill avsluta testet?</string>
+    <string name="you_are_done">Du är klar!</string>
+    <string name="you_have_left_colon">Du har kvar:</string>
+    <string name="marked_questions">Markerade frågor</string>
+    <string name="unanswered_questions">Obesvarade frågor</string>
+
+    <string name="done_list_test_number">Testnummer:</string>
+    <string name="done_list_total_questions">Totala frågor:</string>
+    <string name="done_list_right_questions">Rätt besvarade frågor:</string>
+    <string name="done_list_limit">kravgräns:</string>
+    <string name="done_list_wrong_questions">Fel besvarade frågor:</string>
+    <string name="done_list_left_questions">Obesvarade frågor:</string>
+    <string name="done_list_total_time">Spenderad tid:</string>
+
+    <string name="show_my_answers">Visa mina svar</string>
+    <string name="my_result">Mitt resultat</string>
+
+    <string name="valid_until">Giltigt t.o.m</string>
+    <string name="serial_number">Serienummer</string>
+
+    <string name="update">Uppdatering</string>
+    <string name="update_now">Uppdatera nu</string>
+    <string name="update_available">Ny version är tillgänglig, du måste uppdatera appen innan du fortsätter</string>
+    <string name="rate_us_ask">Vill du gradera oss på Google Play?</string>
+    <string name="not_now">Inte nu</string>
+    <string name="do_not_remind_me">Påminn mig inte</string>
+
+    <string name="developer_website">https://acodigo.com/</string>
+    <string name="support_email_address">support@acodigo.com</string>
+    <string name="support_mobile_phone">+46 738 77 34 28</string>
+
+    <string name="subscribe_message">För att prenumerera på appen\nVänligen kontakta oss via mobilnummer\nTack för att använda vår app</string>
+    <string name="mobile_phone_text">Mobilnummer</string>
+    <string name="email_address_text">E-post</string>
+
+    <string name="choose_alternative_colon">Välj alternativ:</string>
+    <string name="information">Information</string>
+
+    <string name="about_text">
+        "<u>Application</u>\n"
+        "\nGodKänt in Swedish\nPlatform Android\nApp version 12.4\nRelease date 2021/04/13"
+        "\nGodKänt is designed for those who are going to take Swedish B-Driving license, it contains latest theory questions in Swedish and it summaries everything you need to know about the theory test in an easy way to understand and practice"
+        "\nWith this app you can test yourself and have the result when you are done, you will be able to see how many questions you answered correctly, incorrectly and questions you left with no answer and thus you get to know how good you are in theory test"
+        "\n※ App features:"
+        "\n<li>Choose study, test or exam mode</li>\n<li>Press on right mark to show the right answer</li>\n<li>Press on photos to zoom out on them</li>\n<li>Save questions to your own favorite list</li>\n<li>Empty your whole favorite list with one click</li>\n<li>Mark questions for later</li>\n<li>Show or hide the time that you are spending on test</li>\n<li>Report any question you suspect</li>\n<li>End the test at any point you want</li>\n<li>See a full result of your work at the end of test</li>\n<li>When choosing a wrong answer, the app will automatically mark it in red and mark the right one in green (optional)</li>\n<li>When selecting exam mode, the app will randomly select 70 questions from all available tests to make an exam for you</li>"
+        "\nWe update our apps frequently so make sure to keep up to date to take advantage of all new questions, features and bug fixes\n"
+        "\n<u>Developer</u>\n"
+        "\nACodigo Software Group"
+        "\n※ Contact information:"
+        "\nWebsite: <a href="https://acodigo.com/">https://acodigo.com</a>\nEmail address: <a href="mailto:support@acodigo.com">support@acodigo.com</a>\n"
+        "\n<u>Credits for third party contents</u>\n"
+        "\n※ App icons:"
+        "\n<li>Key icon made by <a href="https://www.flaticon.com/authors/freepik/">Freepik</a> from <a href="https://flaticon.com/">Flaticon</a></li>\n<li>Car icon made by <a href="https://www.iconfinder.com/butterflytronics">Benjamin STAWARZ</a> / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY</a></li>\n<li>Traffic icons made by <a href="https://www.flaticon.com/authors/those-icons/">Those Icons</a> from <a href="https://flaticon.com/">Flaticon</a></li>\n<li>Star icon made by <a href="https://www.flaticon.com/authors/google/">Google</a> / <a href="https://creativecommons.org/licenses/by/3.0/">CC 3.0 BY.</a></li>\n<li>List icon made by <a href="https://www.flaticon.com/authors/smalllikeart/">smalllikeart</a> from <a href="https://flaticon.com/">Flaticon</a></li>\n<li>Check mark icon made by <a href="https://www.flaticon.com/authors/freepik/">Freepik</a> from <a href="https://flaticon.com/">Flaticon</a></li>"
+        "\n※ App GIFs:"
+        "\n<li>Spinner gif made by <a href="https://loading.io/">Loading.io</a> / <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt">CC0</a></li>"
+        "\n※ App implementations:"
+        "\n&#10219; Implementations from <a href="https://github.com/">Github</a>"
+        "\n<li>\"android-gif-drawable\" by <a href="https://github.com/koral--/">Karol Wrótniak</a></li>\n<li>\"Smart App Rate\" by <a href="https://github.com/codemybrainsout/">codemybrainsout</a></li>\n<li>\"Like Button\" by <a href="https://github.com/jd-alexander/">Joel Dean</a></li>\n<li>\"KProgressHUD\" by <a href="https://github.com/Kaopiz/">Kaopiz Software Co., Ltd.</a></li>\n<li>\"DialogSheet\" by <a href="https://github.com/marcoscgdev/">Marcos Calvo García</a></li>\n<li>\"Picasso\" by <a href="https://github.com/square/">Square</a></li>\n<li>\"Glide\" by <a href="https://github.com/bumptech/">Bump Technologies</a></li>\n<li>\"Android SQLiteAssetHelper\" by <a href="https://github.com/jgilfelt/android-sqlite-asset-helper/">Jeff Gilfelt</a></li>\n<li>\"PinchToZoom\" by <a href="https://github.com/martinwithaar/">Martin Withaar</a></li>\n<li>\"jTDS JDBC Driver\" by <a href="https://github.com/milesibastos/">Antônio Milesi Bastos</a></li>\n<li>\"Apache Commons Net\" by <a href="https://github.com/apache/">The Apache Software Foundation</a></li>"
+    </string>
+
+</resources>

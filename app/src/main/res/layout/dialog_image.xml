@@ -1,0 +1,101 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="320dp"
+    android:layout_height="350dp"
+    android:background="@drawable/shape_static_square_white_border_primary"
+    android:gravity="center_vertical"
+    android:layoutDirection="ltr">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="15dp"
+        tools:ignore="UselessParent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/imageViewA"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:padding="1dp"
+                android:visibility="visible"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:id="@+id/imageViewB"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:padding="1dp"
+                android:visibility="gone"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentEnd="true"
+                android:layout_margin="5dp"
+                android:background="@drawable/shape_static_circle_white"
+                android:padding="5dp"
+                android:src="@drawable/ic_zoom_in_primary"
+                tools:ignore="ContentDescription" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:gravity="center"
+            android:padding="10dp">
+
+            <Button
+                android:id="@+id/buttonPrevious"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/shape_reverse_round_white_border_primary"
+                android:enabled="false"
+                android:text="@string/previous_code"
+                android:textAllCaps="false"
+                android:textColor="@drawable/shape_reverse_round_white_border_primary"
+                android:textStyle="bold"
+                android:visibility="gone"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/buttonBack"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/shape_reverse_round_white_border_primary"
+                android:text="@string/back"
+                android:textAllCaps="false"
+                android:textColor="@drawable/shape_reverse_round_white_border_primary"
+                android:textStyle="bold"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/buttonNext"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/shape_reverse_round_white_border_primary"
+                android:enabled="true"
+                android:text="@string/next_code"
+                android:textAllCaps="false"
+                android:textColor="@drawable/shape_reverse_round_white_border_primary"
+                android:textStyle="bold"
+                android:visibility="gone"
+                tools:ignore="ButtonStyle" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

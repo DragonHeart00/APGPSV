@@ -1,0 +1,5318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="5" by="lint 3.4">
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dba.java"
+            line="147"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dba.java"
+            line="221"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbb.java"
+            line="147"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbb.java"
+            line="221"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbc.java"
+            line="147"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbc.java"
+            line="221"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbd.java"
+            line="147"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbd.java"
+            line="221"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbe.java"
+            line="147"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbe.java"
+            line="221"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbf.java"
+            line="147"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbf.java"
+            line="221"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbg.java"
+            line="147"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbg.java"
+            line="221"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbh.java"
+            line="147"/>
+    </issue>
+
+    <issue
+        id="DefaultLocale"
+        message="Implicitly using the default locale is a common source of bugs: Use `String.format(Locale, ...)` instead">
+        <location
+            file="src\main\java\com\acodigo\godkantsv\databases\dbh.java"
+            line="221"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        message="Attribute `backgroundTint` is only used in API level 21 and higher (current min is 20)">
+        <location
+            file="src\main\res\layout\activity_minidialog_buy.xml"
+            line="79"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        message="Attribute `backgroundTint` is only used in API level 21 and higher (current min is 20)">
+        <location
+            file="src\main\res\layout\activity_minidialog_buy.xml"
+            line="112"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        message="A newer version of com.google.android.gms:play-services-ads than 16.0.0 is available: 17.2.0">
+        <location
+            file="build.gradle"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        message="A newer version of com.google.gms:google-services than 4.0.1 is available: 4.2.0">
+        <location
+            file="build.gradle"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@color/primary_white` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_about.xml"
+            line="6"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@color/primary_white` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@color/primary_white` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_done.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@color/primary_white` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_main.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@color/primary_white` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_main_page.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@color/primary_white` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_main_page_trial.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@drawable/minibackground` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_minidialog.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@drawable/minibackground` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_minidialog_buy.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@drawable/minibackground` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_minidialog_done.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `#F0EDE5` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_playing.xml"
+            line="6"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@color/colorMain` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_splash.xml"
+            line="7"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@color/primary_white` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_uinfo.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@drawable/scorllminibackground` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\activity_wrong.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="Overdraw"
+        message="Possible overdraw: Root element paints background `@color/primary_white` with a theme that also paints a background (inferred theme is `@style/AppTheme`)">
+        <location
+            file="src\main\res\layout\content_about.xml"
+            line="5"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.backwrong` appears to be unused">
+        <location
+            file="src\main\res\drawable\backwrong.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.buttonshapebuy` appears to be unused">
+        <location
+            file="src\main\res\drawable-v21\buttonshapebuy.xml"
+            line="2"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.color.colorPrimary` appears to be unused">
+        <location
+            file="src\main\res\values\colors.xml"
+            line="3"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.color.colorPrimaryDark` appears to be unused">
+        <location
+            file="src\main\res\values\colors.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.color.colorAccent` appears to be unused">
+        <location
+            file="src\main\res\values\colors.xml"
+            line="5"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.color.button_pressed` appears to be unused">
+        <location
+            file="src\main\res\values\colors.xml"
+            line="11"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.color.button_focused` appears to be unused">
+        <location
+            file="src\main\res\values\colors.xml"
+            line="12"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.color.button_default` appears to be unused">
+        <location
+            file="src\main\res\values\colors.xml"
+            line="13"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.color.button_success` appears to be unused">
+        <location
+            file="src\main\res\values\colors.xml"
+            line="16"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.dimen.activity_horizontal_margin` appears to be unused">
+        <location
+            file="src\main\res\values\dimens.xml"
+            line="3"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.dimen.activity_vertical_margin` appears to be unused">
+        <location
+            file="src\main\res\values\dimens.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.dimen.nav_header_vertical_spacing` appears to be unused">
+        <location
+            file="src\main\res\values\dimens.xml"
+            line="5"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.dimen.nav_header_height` appears to be unused">
+        <location
+            file="src\main\res\values\dimens.xml"
+            line="6"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i105p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i105p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i106p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i106p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i107p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i107p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i108p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i108p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i109p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i109p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i110p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i110p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i111p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i111p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i112p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i112p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i113p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i113p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i114p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i114p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i115p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i115p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i116p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i116p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i118p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i118p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i120p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i120p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i121p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i121p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i122p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i122p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i123p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i123p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i124p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i124p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i125p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i125p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i127p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i127p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i128p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i128p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i129p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i129p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i130p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i130p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i131p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i131p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i132p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i132p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i133p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i133p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i134p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i134p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i137p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i137p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i146p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i146p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i148p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i148p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i153p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i153p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i161p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i161p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i162p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i162p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i164p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i164p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i165p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i165p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i166p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i166p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i167p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i167p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i169p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i169p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i178p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i178p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i17p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i17p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i188p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i188p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i189p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i189p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i190p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i190p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i191p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i191p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i192p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i192p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i192p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i192p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i193p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i193p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i194p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i194p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i195p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i195p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i196p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i196p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i197p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i197p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i198p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i198p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i198p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i198p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i199p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i199p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i199p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i199p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i200p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i200p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i201p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i201p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i202p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i202p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i203p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i203p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i204p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i204p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i205p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i205p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i206p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i206p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i207p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i207p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i208p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i208p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i209p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i209p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i209p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i209p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i210p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i210p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i211p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i211p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i212p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i212p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i213p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i213p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i214p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i214p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i215p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i215p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i216p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i216p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i217p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i217p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i217p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i217p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i218p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i218p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i219p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i219p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i220p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i220p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i221p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i221p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i222p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i222p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i223p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i223p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i224p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i224p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i225p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i225p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i227p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i227p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i227p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i227p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i228p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i228p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i228p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i228p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i232p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i232p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i233p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i233p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i235p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i235p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i236p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i236p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i238p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i238p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i239p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i239p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i243p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i243p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i244p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i244p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i245p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i245p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i247p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i247p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i248p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i248p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i248p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i248p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i249p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i249p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i250p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i250p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i251p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i251p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i252p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i252p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i253p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i253p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i254p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i254p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i256p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i256p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i259p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i259p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i264p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i264p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i266p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i266p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i267p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i267p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i268p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i268p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i269p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i269p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i270p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i270p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i278p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i278p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i279p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i279p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i281p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i281p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i282p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i282p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i283p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i283p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i284p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i284p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i286p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i286p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i286p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i286p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i287p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i287p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i288p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i288p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i290p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i290p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i290p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i290p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i292p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i292p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i293p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i293p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i294p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i294p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i296p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i296p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i298p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i298p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i300p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i300p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i302p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i302p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i303p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i303p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i304p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i304p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i305p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i305p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i306p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i306p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i308p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i308p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i308p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i308p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i309p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i309p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i310p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i310p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i310p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i310p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i324p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i324p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i324p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i324p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i325p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i325p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i336p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i336p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i348p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i348p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i355p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i355p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i360p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i360p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i363p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i363p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i363p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i363p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i364p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i364p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i365p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i365p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i366p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i366p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i366p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i366p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i367p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i367p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i367p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i367p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i368p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i368p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i368p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i368p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i369p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i369p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i369p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i369p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i370p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i370p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i371p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i371p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i372p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i372p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i373p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i373p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i373p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i373p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i374p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i374p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i375p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i375p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i376p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i376p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i376p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i376p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i377p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i377p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i378p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i378p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i378p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i378p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i379p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i379p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i379p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i379p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i380p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i380p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i381p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i381p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i382p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i382p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i383p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i383p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i384p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i384p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i385p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i385p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i385p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i385p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i386p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i386p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i386p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i386p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i387p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i387p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i388p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i388p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i388p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i388p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i389p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i389p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i390p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i390p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i391p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i391p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i392p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i392p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i392p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i392p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i393p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i393p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i393p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i393p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i394p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i394p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i394p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i394p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i395p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i395p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i395p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i395p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i396p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i396p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i396p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i396p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i397p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i397p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i397p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i397p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i398p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i398p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i399p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i399p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i400p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i400p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i401p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i401p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i402p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i402p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i403p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i403p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i403p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i403p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i404p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i404p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i405p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i405p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i406p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i406p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i407p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i407p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i408p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i408p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i408p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i408p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i409p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i409p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i410p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i410p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i411p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i411p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i412p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i412p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i412p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i412p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i413p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i413p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i414p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i414p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i415p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i415p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i416p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i416p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i417p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i417p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i418p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i418p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i427p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i427p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i428p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i428p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i430p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i430p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i430p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i430p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i432p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i432p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i432p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i432p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i445p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i445p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i455p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i455p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i455p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i455p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i459p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i459p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i459p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i459p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i462p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i462p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i464p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i464p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i468p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i468p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i469p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i469p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i470p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i470p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i472p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i472p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i473p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i473p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i474p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i474p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i475p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i475p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i480p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i480p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i490p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i490p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i492p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i492p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i492p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i492p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i499p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i499p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i499p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i499p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i501p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i501p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i501p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i501p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i503p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i503p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i504p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i504p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i508p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i508p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i511p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i511p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i512p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i512p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i512p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i512p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i513p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i513p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i519p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i519p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i519p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i519p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i522p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i522p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i523p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i523p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i525p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i525p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i54p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i54p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i72p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i72p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i74p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i74p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i75p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i75p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i76p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i76p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i78p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i78p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i78p2` appears to be unused">
+        <location
+            file="src\main\res\drawable\i78p2.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i79p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i79p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i80p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i80p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i81p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i81p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i82p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i82p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i83p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i83p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i84p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i84p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i85p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i85p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i86p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i86p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i87p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i87p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i88p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i88p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i89p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i89p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i90p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i90p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i91p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i91p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i92p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i92p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i93p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i93p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i94p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i94p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i95p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i95p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i96p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i96p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i97p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i97p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.i99p1` appears to be unused">
+        <location
+            file="src\main\res\drawable\i99p1.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.ic_assistant_start` appears to be unused">
+        <location
+            file="src\main\res\drawable\ic_assistant_start.xml"
+            line="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.ic_help_outline_black_24dp` appears to be unused">
+        <location
+            file="src\main\res\drawable\ic_help_outline_black_24dp.xml"
+            line="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.ic_info_outline_black_24dp` appears to be unused">
+        <location
+            file="src\main\res\drawable\ic_info_outline_black_24dp.xml"
+            line="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.ic_menu_camera` appears to be unused">
+        <location
+            file="src\main\res\drawable-v21\ic_menu_camera.xml"
+            line="1"/>
+        <location
+            file="src\main\res\values\drawables.xml"
+            line="2"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.ic_menu_gallery` appears to be unused">
+        <location
+            file="src\main\res\drawable-v21\ic_menu_gallery.xml"
+            line="1"/>
+        <location
+            file="src\main\res\values\drawables.xml"
+            line="3"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.ic_menu_manage` appears to be unused">
+        <location
+            file="src\main\res\drawable-v21\ic_menu_manage.xml"
+            line="1"/>
+        <location
+            file="src\main\res\values\drawables.xml"
+            line="5"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.ic_menu_send` appears to be unused">
+        <location
+            file="src\main\res\drawable-v21\ic_menu_send.xml"
+            line="1"/>
+        <location
+            file="src\main\res\values\drawables.xml"
+            line="7"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.ic_menu_share` appears to be unused">
+        <location
+            file="src\main\res\drawable-v21\ic_menu_share.xml"
+            line="1"/>
+        <location
+            file="src\main\res\values\drawables.xml"
+            line="6"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.ic_menu_slideshow` appears to be unused">
+        <location
+            file="src\main\res\drawable-v21\ic_menu_slideshow.xml"
+            line="1"/>
+        <location
+            file="src\main\res\values\drawables.xml"
+            line="4"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.ic_ondemand_video_black_24dp` appears to be unused">
+        <location
+            file="src\main\res\drawable\ic_ondemand_video_black_24dp.xml"
+            line="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.integer.slide_animation_duration` appears to be unused">
+        <location
+            file="src\main\res\values\integers.xml"
+            line="3"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.menu.main` appears to be unused">
+        <location
+            file="src\main\res\menu\main.xml"
+            line="2"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.menu.menu_about` appears to be unused">
+        <location
+            file="src\main\res\menu\menu_about.xml"
+            line="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.redshape` appears to be unused">
+        <location
+            file="src\main\res\drawable\redshape.xml"
+            line="2"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.round_corner` appears to be unused">
+        <location
+            file="src\main\res\drawable\round_corner.xml"
+            line="2"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.drawable.side_nav_bar` appears to be unused">
+        <location
+            file="src\main\res\drawable\side_nav_bar.xml"
+            line="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.app_lan` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="3"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.copy_rights_trash` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="5"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.logout` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="21"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.previous` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="41"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.total_q` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="43"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.total_r` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="44"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.total_w` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="45"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.total_u` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="46"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.phone_number_text` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="53"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.email_text` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="55"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.AdID` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="59"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.DeviceTestID` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="60"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.title_activity_main2` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="61"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.navigation_drawer_open` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="62"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.navigation_drawer_close` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="63"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.nav_header_title` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="64"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.nav_header_subtitle` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="65"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.nav_header_desc` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="66"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.action_settings` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="67"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.title_activity_new_about` appears to be unused">
+        <location
+            file="src\main\res\values\strings.xml"
+            line="68"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.style.MyButton` appears to be unused">
+        <location
+            file="src\main\res\values\styles.xml"
+            line="13"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        message="The resource `R.string.project_id` appears to be unused">
+        <location
+            file="build\generated\res\google-services\debug\values\values.xml"
+            line="10"/>
+    </issue>
+
+    <issue
+        id="UselessParent"
+        message="This `RelativeLayout` layout or its `RelativeLayout` parent is useless">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="56"/>
+    </issue>
+
+    <issue
+        id="UselessParent"
+        message="This `ScrollView` layout or its `RelativeLayout` parent is possibly useless">
+        <location
+            file="src\main\res\layout\activity_main.xml"
+            line="62"/>
+    </issue>
+
+    <issue
+        id="UselessParent"
+        message="This `LinearLayout` layout or its `RelativeLayout` parent is possibly useless">
+        <location
+            file="src\main\res\layout\activity_main_page.xml"
+            line="43"/>
+    </issue>
+
+    <issue
+        id="UselessParent"
+        message="This `LinearLayout` layout or its `RelativeLayout` parent is possibly useless">
+        <location
+            file="src\main\res\layout\activity_main_page_trial.xml"
+            line="43"/>
+    </issue>
+
+    <issue
+        id="UselessParent"
+        message="This `LinearLayout` layout or its `RelativeLayout` parent is useless; transfer the `background` attribute to the other view">
+        <location
+            file="src\main\res\layout\activity_playing.xml"
+            line="16"/>
+    </issue>
+
+    <issue
+        id="UselessParent"
+        message="This `LinearLayout` layout or its `RelativeLayout` parent is useless; transfer the `background` attribute to the other view">
+        <location
+            file="src\main\res\layout\activity_playing.xml"
+            line="92"/>
+    </issue>
+
+    <issue
+        id="UselessParent"
+        message="This `LinearLayout` layout or its `RelativeLayout` parent is possibly useless">
+        <location
+            file="src\main\res\layout\activity_playing.xml"
+            line="130"/>
+    </issue>
+
+    <issue
+        id="UselessParent"
+        message="This `LinearLayout` layout or its `RelativeLayout` parent is useless; transfer the `background` attribute to the other view">
+        <location
+            file="src\main\res\layout\activity_playing.xml"
+            line="291"/>
+    </issue>
+
+    <issue
+        id="UselessParent"
+        message="This `ScrollView` layout or its `RelativeLayout` parent is possibly useless; transfer the `background` attribute to the other view">
+        <location
+            file="src\main\res\layout\activity_wrong.xml"
+            line="7"/>
+    </issue>
+
+    <issue
+        id="RedundantNamespace"
+        message="This namespace declaration is redundant">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="65"/>
+    </issue>
+
+    <issue
+        id="RedundantNamespace"
+        message="This namespace declaration is redundant">
+        <location
+            file="src\main\res\layout\activity_done.xml"
+            line="71"/>
+    </issue>
+
+    <issue
+        id="RedundantNamespace"
+        message="This namespace declaration is redundant">
+        <location
+            file="src\main\res\layout\activity_done.xml"
+            line="72"/>
+    </issue>
+
+    <issue
+        id="RedundantNamespace"
+        message="This namespace declaration is redundant">
+        <location
+            file="src\main\res\layout\activity_main.xml"
+            line="63"/>
+    </issue>
+
+    <issue
+        id="RedundantNamespace"
+        message="This namespace declaration is redundant">
+        <location
+            file="src\main\res\layout\activity_minidialog_buy.xml"
+            line="129"/>
+    </issue>
+
+    <issue
+        id="RedundantNamespace"
+        message="This namespace declaration is redundant">
+        <location
+            file="src\main\res\layout\activity_playing.xml"
+            line="136"/>
+    </issue>
+
+    <issue
+        id="RedundantNamespace"
+        message="This namespace declaration is redundant">
+        <location
+            file="src\main\res\layout\activity_playing.xml"
+            line="213"/>
+    </issue>
+
+    <issue
+        id="RedundantNamespace"
+        message="This namespace declaration is redundant">
+        <location
+            file="src\main\res\layout\activity_uinfo.xml"
+            line="55"/>
+    </issue>
+
+    <issue
+        id="RedundantNamespace"
+        message="This namespace declaration is redundant">
+        <location
+            file="src\main\res\layout\activity_wrong.xml"
+            line="8"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        message="Launcher icon used as round icon did not have a circular shape">
+        <location
+            file="src\main\res\mipmap-hdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        message="Launcher icon used as round icon did not have a circular shape">
+        <location
+            file="src\main\res\mipmap-mdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        message="Launcher icon used as round icon did not have a circular shape">
+        <location
+            file="src\main\res\mipmap-xhdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        message="Launcher icon used as round icon did not have a circular shape">
+        <location
+            file="src\main\res\mipmap-xxhdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        message="Launcher icon used as round icon did not have a circular shape">
+        <location
+            file="src\main\res\mipmap-xxxhdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="GifUsage"
+        message="Using the `.gif` format for bitmaps is discouraged">
+        <location
+            file="src\main\res\drawable\mainwait.gif"/>
+    </issue>
+
+    <issue
+        id="GifUsage"
+        message="Using the `.gif` format for bitmaps is discouraged">
+        <location
+            file="src\main\res\drawable\wait.gif"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/aboutheaderbackground.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\aboutheaderbackground.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/backwrong.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\backwrong.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i105p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i105p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i106p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i106p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i107p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i107p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i108p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i108p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i109p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i109p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i110p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i110p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i111p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i111p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i112p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i112p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i113p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i113p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i114p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i114p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i115p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i115p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i116p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i116p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i118p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i118p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i120p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i120p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i121p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i121p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i122p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i122p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i123p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i123p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i124p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i124p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i125p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i125p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i127p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i127p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i128p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i128p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i129p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i129p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i130p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i130p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i131p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i131p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i132p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i132p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i133p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i133p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i134p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i134p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i137p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i137p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i146p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i146p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i148p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i148p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i153p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i153p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i161p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i161p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i162p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i162p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i164p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i164p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i165p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i165p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i166p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i166p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i167p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i167p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i169p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i169p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i178p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i178p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i17p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i17p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i188p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i188p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i189p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i189p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i190p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i190p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i191p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i191p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i192p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i192p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i192p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i192p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i193p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i193p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i194p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i194p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i195p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i195p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i196p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i196p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i197p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i197p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i198p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i198p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i198p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i198p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i199p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i199p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i199p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i199p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i200p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i200p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i201p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i201p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i202p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i202p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i203p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i203p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i204p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i204p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i205p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i205p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i206p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i206p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i207p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i207p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i208p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i208p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i209p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i209p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i209p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i209p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i210p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i210p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i211p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i211p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i212p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i212p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i213p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i213p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i214p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i214p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i215p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i215p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i216p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i216p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i217p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i217p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i217p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i217p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i218p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i218p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i219p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i219p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i220p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i220p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i221p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i221p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i222p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i222p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i223p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i223p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i224p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i224p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i225p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i225p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i227p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i227p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i227p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i227p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i228p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i228p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i228p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i228p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i232p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i232p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i233p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i233p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i235p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i235p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i236p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i236p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i238p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i238p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i239p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i239p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i243p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i243p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i244p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i244p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i245p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i245p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i247p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i247p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i248p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i248p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i248p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i248p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i249p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i249p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i250p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i250p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i251p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i251p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i252p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i252p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i253p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i253p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i254p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i254p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i256p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i256p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i259p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i259p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i264p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i264p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i266p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i266p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i267p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i267p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i268p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i268p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i269p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i269p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i270p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i270p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i278p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i278p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i279p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i279p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i281p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i281p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i282p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i282p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i283p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i283p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i284p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i284p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i286p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i286p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i286p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i286p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i287p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i287p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i288p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i288p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i290p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i290p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i290p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i290p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i292p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i292p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i293p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i293p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i294p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i294p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i296p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i296p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i298p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i298p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i300p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i300p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i302p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i302p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i303p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i303p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i304p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i304p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i305p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i305p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i306p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i306p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i308p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i308p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i308p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i308p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i309p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i309p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i310p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i310p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i310p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i310p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i324p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i324p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i324p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i324p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i325p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i325p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i336p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i336p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i348p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i348p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i355p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i355p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i360p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i360p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i363p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i363p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i363p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i363p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i364p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i364p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i365p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i365p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i366p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i366p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i366p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i366p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i367p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i367p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i367p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i367p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i368p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i368p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i368p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i368p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i369p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i369p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i369p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i369p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i370p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i370p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i371p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i371p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i372p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i372p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i373p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i373p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i373p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i373p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i374p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i374p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i375p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i375p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i376p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i376p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i376p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i376p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i377p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i377p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i378p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i378p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i378p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i378p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i379p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i379p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i379p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i379p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i380p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i380p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i381p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i381p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i382p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i382p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i383p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i383p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i384p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i384p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i385p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i385p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i385p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i385p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i386p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i386p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i386p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i386p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i387p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i387p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i388p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i388p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i388p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i388p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i389p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i389p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i390p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i390p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i391p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i391p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i392p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i392p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i392p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i392p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i393p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i393p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i393p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i393p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i394p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i394p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i394p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i394p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i395p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i395p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i395p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i395p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i396p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i396p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i396p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i396p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i397p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i397p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i397p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i397p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i398p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i398p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i399p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i399p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i400p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i400p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i401p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i401p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i402p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i402p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i403p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i403p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i403p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i403p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i404p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i404p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i405p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i405p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i406p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i406p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i407p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i407p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i408p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i408p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i408p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i408p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i409p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i409p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i410p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i410p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i411p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i411p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i412p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i412p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i412p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i412p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i413p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i413p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i414p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i414p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i415p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i415p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i416p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i416p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i417p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i417p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i418p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i418p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i427p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i427p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i428p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i428p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i430p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i430p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i430p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i430p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i432p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i432p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i432p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i432p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i445p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i445p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i455p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i455p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i455p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i455p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i459p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i459p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i459p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i459p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i462p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i462p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i464p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i464p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i468p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i468p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i469p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i469p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i470p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i470p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i472p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i472p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i473p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i473p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i474p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i474p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i475p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i475p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i480p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i480p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i490p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i490p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i492p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i492p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i492p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i492p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i499p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i499p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i499p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i499p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i501p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i501p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i501p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i501p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i503p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i503p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i504p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i504p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i508p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i508p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i511p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i511p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i512p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i512p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i512p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i512p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i513p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i513p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i519p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i519p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i519p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i519p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i522p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i522p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i523p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i523p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i525p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i525p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i54p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i54p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i72p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i72p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i74p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i74p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i75p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i75p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i76p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i76p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i78p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i78p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i78p2.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i78p2.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i79p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i79p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i80p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i80p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i81p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i81p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i82p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i82p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i83p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i83p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i84p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i84p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i85p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i85p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i86p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i86p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i87p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i87p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i88p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i88p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i89p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i89p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i90p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i90p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i91p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i91p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i92p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i92p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i93p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i93p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i94p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i94p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i95p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i95p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i96p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i96p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i97p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i97p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/i99p1.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\i99p1.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/mainwait.gif` in densityless folder">
+        <location
+            file="src\main\res\drawable\mainwait.gif"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/minibackground.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\minibackground.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/nullimage.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\nullimage.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/playingbackground.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\playingbackground.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/scorllminibackground.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\scorllminibackground.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/splashicon.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\splashicon.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/startlogo.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\startlogo.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/top.png` in densityless folder">
+        <location
+            file="src\main\res\drawable\top.png"/>
+    </issue>
+
+    <issue
+        id="IconLocation"
+        message="Found bitmap drawable `res/drawable/wait.gif` in densityless folder">
+        <location
+            file="src\main\res\drawable\wait.gif"/>
+    </issue>
+
+    <issue
+        id="IconDensities"
+        message="Missing the following drawables in `drawable-mdpi`: buttondisabled.xml, buttonshapeg.xml, buttonshapen.xml, buttonshapenext.xml, buttonshaper.xml... (1 more)">
+        <location
+            file="src\main\res\drawable-mdpi"/>
+    </issue>
+
+    <issue
+        id="IconDensities"
+        message="Missing the following drawables in `drawable-xhdpi`: buttondisabled.xml, buttonshapeg.xml, buttonshapen.xml, buttonshapenext.xml, buttonshaper.xml... (1 more)">
+        <location
+            file="src\main\res\drawable-xhdpi"/>
+    </issue>
+
+    <issue
+        id="IconDensities"
+        message="Missing the following drawables in `drawable-xxhdpi`: buttondisabled.xml, buttonshapeg.xml, buttonshapen.xml, buttonshapenext.xml, buttonshaper.xml... (1 more)">
+        <location
+            file="src\main\res\drawable-xxhdpi"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i194p1.png, i199p1.png">
+        <location
+            file="src\main\res\drawable\i199p1.png"/>
+        <location
+            file="src\main\res\drawable\i194p1.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i217p2.png, i219p1.png">
+        <location
+            file="src\main\res\drawable\i219p1.png"/>
+        <location
+            file="src\main\res\drawable\i217p2.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i221p1.png, i222p1.png">
+        <location
+            file="src\main\res\drawable\i222p1.png"/>
+        <location
+            file="src\main\res\drawable\i221p1.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i244p1.png, i245p1.png">
+        <location
+            file="src\main\res\drawable\i245p1.png"/>
+        <location
+            file="src\main\res\drawable\i244p1.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i206p1.png, i247p1.png">
+        <location
+            file="src\main\res\drawable\i247p1.png"/>
+        <location
+            file="src\main\res\drawable\i206p1.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i190p1.png, i248p2.png">
+        <location
+            file="src\main\res\drawable\i248p2.png"/>
+        <location
+            file="src\main\res\drawable\i190p1.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i279p1.png, i281p1.png">
+        <location
+            file="src\main\res\drawable\i281p1.png"/>
+        <location
+            file="src\main\res\drawable\i279p1.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i364p1.png, i365p1.png">
+        <location
+            file="src\main\res\drawable\i365p1.png"/>
+        <location
+            file="src\main\res\drawable\i364p1.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i383p1.png, i384p1.png">
+        <location
+            file="src\main\res\drawable\i384p1.png"/>
+        <location
+            file="src\main\res\drawable\i383p1.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i389p1.png, i390p1.png">
+        <location
+            file="src\main\res\drawable\i390p1.png"/>
+        <location
+            file="src\main\res\drawable\i389p1.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: i95p1.png, i96p1.png">
+        <location
+            file="src\main\res\drawable\i96p1.png"/>
+        <location
+            file="src\main\res\drawable\i95p1.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_round.png">
+        <location
+            file="src\main\res\mipmap-hdpi\ic_launcher_round.png"/>
+        <location
+            file="src\main\res\mipmap-hdpi\ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_round.png">
+        <location
+            file="src\main\res\mipmap-mdpi\ic_launcher_round.png"/>
+        <location
+            file="src\main\res\mipmap-mdpi\ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_round.png">
+        <location
+            file="src\main\res\mipmap-xhdpi\ic_launcher_round.png"/>
+        <location
+            file="src\main\res\mipmap-xhdpi\ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_round.png">
+        <location
+            file="src\main\res\mipmap-xxhdpi\ic_launcher_round.png"/>
+        <location
+            file="src\main\res\mipmap-xxhdpi\ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        message="The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_round.png">
+        <location
+            file="src\main\res\mipmap-xxxhdpi\ic_launcher_round.png"/>
+        <location
+            file="src\main\res\mipmap-xxxhdpi\ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="90"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="101"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="112"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="133"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="156"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="177"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="189"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="200"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="221"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="233"/>
+    </issue>
+
+    <issue
+        id="ButtonStyle"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <location
+            file="src\main\res\layout\activity_choose_test.xml"
+            line="245"/>
+    </issue>
+
+    <issue
+        id="Autofill"
+        message="Missing `autofillHints` attribute">
+        <location
+            file="src\main\res\layout\activity_main.xml"
+            line="77"/>
+    </issue>
+
+</issues>

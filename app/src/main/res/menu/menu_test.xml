@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/show_right_answer"
+        android:icon="@drawable/ic_check_white"
+        android:orderInCategory="1"
+        android:title="@string/show_right_answer"
+        app:showAsAction="always"
+        tools:ignore="AlwaysShowAction" />
+    <item
+        android:id="@+id/show_test_info"
+        android:orderInCategory="2"
+        android:title="@string/show_test_info"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/show_time"
+        android:checkable="true"
+        android:checked="true"
+        android:orderInCategory="3"
+        android:title="@string/show_time"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mark_answers"
+        android:checkable="true"
+        android:checked="true"
+        android:orderInCategory="4"
+        android:title="@string/mark_answers"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/save_delete_question"
+        android:orderInCategory="5"
+        android:title="@string/save_question"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/empty_favorite"
+        android:orderInCategory="6"
+        android:title="@string/empty_favorite_list"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/report_question"
+        android:orderInCategory="7"
+        android:title="@string/report_question"
+        app:showAsAction="never" />
+</menu>
